@@ -5,6 +5,7 @@ import Parallax from "./components/parallax/Parallax";
 import About from "./components/about/About";
 import Portfolio from "./components/portfolio/Portfolio";
 import Contact from "./components/contact/Contact";
+import Sidebar from "./components/sidebar/Sidebar";
 
 const App = () => {
 	return (
