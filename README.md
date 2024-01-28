@@ -1,2 +1,3 @@
-# personal-portfolio-project
- Owen's Personal Website
+Owen's Personal Website
+
+Built on React, animated using Framer Motion
